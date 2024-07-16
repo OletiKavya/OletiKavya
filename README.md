@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Kavya Sree Oleti Ramanjulu
 
-📍 **Location:** Seattle, WA 
+📍 **Location:** Seattle, WA  
 📧 **Email:** [ramanjulukavya@gmail.com](mailto:ramanjulukavya@gmail.com)  
-🔗 **LinkedIn:** [Kavya Sree Oleti Ramanjulu](https://www.linkedin.com/in/kavyaoleti/). 
-📞 **Phone:** +1 206-849-8814  
+🔗 **LinkedIn:** [Kavya Sree Oleti Ramanjulu](https://www.linkedin.com/in/kavyaoleti/)  
+📞 **Phone:** +1 206-849-8814
 
 ---
 
