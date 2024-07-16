@@ -1,21 +1,22 @@
 # 👋 Hi, I'm Kavya Sree Oleti Ramanjulu
 
-📍 **Location:** Long Beach, CA  
+📍 **Location:** Seattle, WA 
 📧 **Email:** [ramanjulukavya@gmail.com](mailto:ramanjulukavya@gmail.com)  
-🔗 **LinkedIn:** [Kavya Sree Oleti Ramanjulu](https://www.linkedin.com/in/kavyasreeoletiramanjulu)  
+🔗 **LinkedIn:** [Kavya Sree Oleti Ramanjulu](https://www.linkedin.com/in/kavyaoleti/). 
 📞 **Phone:** +1 206-849-8814  
 
 ---
 
 ## 👩‍💻 Professional Summary
-Motivated software engineering professional with over 4 years of experience and currently pursuing a Master's in Computer Science. Experienced in TIBCO integration, AWS, and AI research. Seeking a dynamic role as a Software Engineer (SE) to design and build innovative software solutions. Proficient in programming languages such as Python, C++, and Java, with expertise in distributed systems and agile methodologies.
+Motivated software engineering professional with over 6 years of experience and a Master's in Computer Science. Experienced in TIBCO integration, AWS, and AI research. Seeking a dynamic role as a Software Engineer (SE) to design and build innovative software solutions. Proficient in Python, C++, Java, with expertise in distributed systems and agile methodologies.
+
 
 ---
 
 ## 🎓 Education
 **Master's in Computer Science**  
 *California State University, Dominguez Hills*  
-*August 2022 – Present*  
+*August 2022 – May 2024*  
 - TLTC Supplemental Instructor: Guided undergraduates to improve study techniques.
 - Research Assistant: Specialized in multi-agent reinforcement learning and its practical application to solve the PCTSP. Implemented Greedy and MARL algorithms, focusing on optimizing hyperparameters for optimal solutions.
 
