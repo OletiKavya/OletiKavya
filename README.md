@@ -3,7 +3,9 @@
 📍 **Location:** Seattle, WA  
 📧 **Email:** [ramanjulukavya@gmail.com](mailto:ramanjulukavya@gmail.com)  
 🔗 **LinkedIn:** [Kavya Sree Oleti Ramanjulu](https://www.linkedin.com/in/kavyaoleti/)  
+🔗 **Website:** [Kavya Sree Oleti Ramanjulu](https://kavyaoleti-portfolio.netlify.app/)  
 📞 **Phone:** +1 206-849-8814
+
 
 ---
 
